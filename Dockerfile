@@ -2,7 +2,7 @@ FROM java:8-jre
 
 WORKDIR /app
 
-ADD /target /app
+ADD ./target /app
 
 EXPOSE 8282 1521
 
