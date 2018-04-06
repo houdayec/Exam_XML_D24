@@ -1,4 +1,4 @@
-package fr.univtln.choudayer630.examxml;
+package exam;
 
 import org.apache.log4j.PatternLayout;
 import org.slf4j.Logger;
