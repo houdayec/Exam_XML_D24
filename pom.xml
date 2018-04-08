@@ -105,7 +105,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>exam.App</mainClass>
+                            <mainClass>exam.PersistingMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -125,7 +125,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>exam.App</mainClass>
+                    <mainClass>exam.PersistingMain</mainClass>
                 </configuration>
             </plugin>
         </plugins>
